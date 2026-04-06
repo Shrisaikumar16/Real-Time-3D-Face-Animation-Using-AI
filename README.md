@@ -35,7 +35,7 @@ Output: A video of the anime character smiling
 ## ⚠️ Ethical Consideration
 This project is for educational and creative purposes only. Be mindful of how animated faces are used — misuse for impersonation or misinformation is strictly unethical.
 
-## 👨‍💻 Author - Shrikant Bawankule
+## 👨‍💻 Author - Shrisaikumar Sonari
 
 
 
